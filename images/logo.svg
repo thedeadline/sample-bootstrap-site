@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="764 189 98 35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #09f;
+        font-size: 30px;
+        font-family: HelveticaNeue-Thin, Helvetica Neue;
+        font-weight: 200;
+      }
+      .cls-2 {
+        font-size: 20px;
+        font-family: HelveticaNeue-Bold, Helvetica Neue;
+        font-weight: 700;
+      }
+      .cls-3 {
+        font-family: HelveticaNeue-Light, Helvetica Neue;
+        font-weight: 300;
+      }
+    </style>
+  </defs>
+  <g id="logo" transform="translate(691 129)">
+    <text id="_" data-name="[          ]" class="cls-1" transform="translate(73 89)"><tspan x="0" y="0" xml:space="preserve">[          ]</tspan></text>
+    <text id="FinExpert" class="cls-2" transform="translate(80 89)"><tspan x="0" y="0">Fin</tspan><tspan class="cls-3" y="0">Expert</tspan></text>
+  </g>
+</svg>
